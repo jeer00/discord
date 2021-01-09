@@ -1,7 +1,7 @@
 {
-  "token": "BOT TOKEN",
-  "maxInactivity": 86400000,
-  "warnDelay": 43200000,
-  "warnMessagesChannel": "CHANNEL ID",
-  "testing": false
+  "token": "Nzk3NDA4NjI5MTU3OTIwNzY4.X_mCqA.2EHxQTcoEouyjqSXCD4s3HZMpJ0",
+  "maxInactivity": 2592000000,
+  "warnDelay": 648000000,
+  "warnMessagesChannel": "558963965208690699",
+  "testing": true
 }
